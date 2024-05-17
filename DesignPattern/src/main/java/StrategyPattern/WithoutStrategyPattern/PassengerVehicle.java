@@ -1,4 +1,4 @@
-package WithoutStrategyPattern;
+package StrategyPattern.WithoutStrategyPattern;
 
 public class PassengerVehicle {
 }

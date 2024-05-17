@@ -1,6 +1,6 @@
-package WithStrategyPattern;
+package StrategyPattern.WithStrategyPattern;
 
-import WithStrategyPattern.Strategy.NormalDriveStrategy;
+import StrategyPattern.WithStrategyPattern.Strategy.NormalDriveStrategy;
 
 public class PassengerVehicle extends Vehicle {
     public PassengerVehicle() {

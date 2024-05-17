@@ -1,6 +1,6 @@
-package WithStrategyPattern;
+package StrategyPattern.WithStrategyPattern;
 
-import WithStrategyPattern.Strategy.SpecialDriveStrategy;
+import StrategyPattern.WithStrategyPattern.Strategy.SpecialDriveStrategy;
 
 public class SportsVehicle extends Vehicle {
     public SportsVehicle() {

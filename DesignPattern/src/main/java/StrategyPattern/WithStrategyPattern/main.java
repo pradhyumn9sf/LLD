@@ -1,4 +1,4 @@
-package WithStrategyPattern;
+package StrategyPattern.WithStrategyPattern;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package WithStrategyPattern.Strategy;
+package StrategyPattern.WithStrategyPattern.Strategy;
 
 public class SpecialDriveStrategy implements DriveStrategy {
     @Override

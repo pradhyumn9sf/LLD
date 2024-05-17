@@ -1,0 +1,12 @@
+Why we use decortor pattern ?
+we use it to avoid class explosion
+
+
+BasePizza
+FarmHouse        ->  is  - a  -> BasePizza
+VefDelight       ->  is  - a  -> BasePizza
+ToppingDecorator ->  is  - a  -> BasePizza
+ExtraCheese      ->  is  - a  -> ToppingDecorator
+Mushroom         ->  is  - a  -> ToppingDecorator
+ExtraCheese      ->  has - a  -> BasePizza
+Mushroom         ->  has - a  -> BasePizza
