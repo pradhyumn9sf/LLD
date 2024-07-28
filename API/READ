@@ -1,0 +1,1 @@
+https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/

@@ -32,6 +32,7 @@ public class TicTacToeGame {
             Scanner inputScanner = new Scanner(System.in);
             String s = inputScanner.nextLine();
             String[] values = s.split(",");
+//            if(values[0] != )
             int inputRow = Integer.valueOf(values[0]);
             int inputCol = Integer.valueOf(values[1]);
 
